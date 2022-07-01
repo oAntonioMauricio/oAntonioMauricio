@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm António Maurício
+
+👀 I’m interested in Front-End Development & UX/UI Design
+🌱 I’m currently learning React and Node.js
+🔭 I’m currently working on Web Projects for Restaurants
+📫 You can reach me on linkedin.com/in/oantoniomauricio
+⚡ Fun fact: Seinfeld is my favourite sitcom
 
 <!--
 **oAntonioMauricio/oAntonioMauricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
