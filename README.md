@@ -2,7 +2,7 @@
 
 • 👀 I’m interested in Front-End Development & UX/UI Design
 <br>
-• 🌱 I’m currently learning Node.js
+• 🌱 I’m currently learning Java Spring
 <br>
 • 🔭 I’m currently working on Web Projects for Restaurants
 <br>
