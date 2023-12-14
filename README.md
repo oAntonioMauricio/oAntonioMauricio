@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm António Maurício
 
-• 👀 I’m interested in Front-End Development & UX/UI Design
+• 👀 I’m interested in Front-End Development
 <br>
 • 🌱 I’m currently learning Java Spring
 <br>
